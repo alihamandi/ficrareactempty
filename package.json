@@ -1,0 +1,32 @@
+{
+  "name": "reacttodo",
+  "version": "0.0.1",
+  "description": "this is a part of the training",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "i",
+    "write",
+    "some",
+    "thing",
+    "to",
+    "lead",
+    "the",
+    "devs",
+    "to",
+    "it"
+  ],
+  "author": "Ali Hamandi",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
